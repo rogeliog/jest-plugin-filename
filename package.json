@@ -32,7 +32,7 @@
     "typecheck": "yarn tsc -p ."
   },
   "dependencies": {
-    "ansi-escapes": "^6.0.0",
+    "ansi-escapes": "^7.0.0",
     "chalk": "^5.2.0",
     "jest-regex-util": "^29.0.0",
     "jest-watcher": "^29.0.0",
